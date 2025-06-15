@@ -11,7 +11,8 @@ The SQL query returns a list of search terms with their **average popularity sco
 6	2	wellness	10.899999999999999
 
 ## 📈 Sample Chart
-![Trends](https://github.com/user-attachments/assets/235f0a0a-af5c-4ce1-8326-3db548ff7b37)
+![Trends](https://github.com/user-attachments/assets/a35f16a7-e0a2-42b0-92ff-896f2d4ed736)
+
 
 > This chart shows how the popularity of top fitness-related terms varies across months
 
